@@ -1,0 +1,115 @@
+
+#topofthepage
+{
+	background-image: url("oranges.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 40px;
+	text-align: center;
+	color: #CF0;
+	font-family: Arial, Geneva, sans-serif;
+	font-size: 90px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+body
+{
+	background-color: #FC6
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+p
+{
+	text-align: center;
+}
+<!-- main heading -->
+.headings1{
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height: 140px;
+	font-size: 30pt;
+}
+<!-- subheading -->
+.headings2{
+	text-align: center;
+	line-height: 60px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.headings3{
+	text-align: center;
+	line-height: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#apologything{
+	color: #000;	
+	background-color: #399
+}
+.lol{
+line-height: 1.8em;
+font-size: 1.7em;
+display: inline;
+	
+}
+<!-- fancy apology -->
+p span {
+padding: 0.2em;
+background-color: #0FC;
+text-align: center;
+}
+
+
+<!-- nav bar -->
+#navbar li a:hover {
+    background-color: #111;
+}
+#navbar li {
+      	float: left;
+}
+#navbar li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 6px 46px;
+    text-decoration: none;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 30pt;
+}
+#navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+	text-align: center;	
+	list-style-type: none;
+    margin-left: -30px;
+    padding: 0;
+    overflow: hidden;
+}
+audio
+{
+	margin: 5% 42%;	
+}
+#lyrics
+{
+	font-size:30px;
+}
+#backtotop
+{
+	font-size:30px;
+	text-align: center;
+}
+#orange
+{
+	 display: block;
+    margin-left: auto;
+    margin-right: auto	
+}
+#eminem
+{
+	 display: block;
+  text-align: center;
+}

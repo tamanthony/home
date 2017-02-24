@@ -24,14 +24,14 @@ p
 {
 	text-align: center;
 }
-<!-- main heading -->
+
 .headings1{
 	text-align: center;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	line-height: 140px;
 	font-size: 30pt;
 }
-<!-- subheading -->
+
 .headings2{
 	text-align: center;
 	line-height: 60px;
@@ -52,7 +52,7 @@ font-size: 1.7em;
 display: inline;
 	
 }
-<!-- fancy apology -->
+
 p span {
 padding: 0.2em;
 background-color: #0FC;
@@ -60,7 +60,7 @@ text-align: center;
 }
 
 
-<!-- nav bar -->
+
 #navbar li a:hover {
     background-color: #111;
 }
